@@ -1,0 +1,36 @@
+[2021-09-01 03:14:56,182] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: xcom_dag.processing_tasks.training_model_a 2021-09-01T03:14:47.620090+00:00 [queued]>
+[2021-09-01 03:14:56,288] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: xcom_dag.processing_tasks.training_model_a 2021-09-01T03:14:47.620090+00:00 [queued]>
+[2021-09-01 03:14:56,289] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-01 03:14:56,289] {taskinstance.py:1068} INFO - Starting attempt 1 of 1
+[2021-09-01 03:14:56,306] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-01 03:14:56,387] {taskinstance.py:1087} INFO - Executing <Task(PythonOperator): processing_tasks.training_model_a> on 2021-09-01T03:14:47.620090+00:00
+[2021-09-01 03:14:56,429] {standard_task_runner.py:52} INFO - Started process 114582 to run task
+[2021-09-01 03:14:56,483] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'xcom_dag', 'processing_tasks.training_model_a', '2021-09-01T03:14:47.620090+00:00', '--job-id', '27', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/xcom_dag.py', '--cfg-path', '/tmp/tmpc0bc8h03', '--error-file', '/tmp/tmp4ajdpstk']
+[2021-09-01 03:14:56,500] {standard_task_runner.py:77} INFO - Job 27: Subtask processing_tasks.training_model_a
+[2021-09-01 03:14:56,984] {logging_mixin.py:104} INFO - Running <TaskInstance: xcom_dag.processing_tasks.training_model_a 2021-09-01T03:14:47.620090+00:00 [running]> on host airflowvm
+[2021-09-01 03:14:57,550] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=xcom_dag
+AIRFLOW_CTX_TASK_ID=processing_tasks.training_model_a
+AIRFLOW_CTX_EXECUTION_DATE=2021-09-01T03:14:47.620090+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-09-01T03:14:47.620090+00:00
+[2021-09-01 03:14:57,552] {logging_mixin.py:104} INFO - model's accuracy: 8.768174164020413
+[2021-09-01 03:14:57,557] {taskinstance.py:1481} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/sandbox/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1137, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/airflow/sandbox/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/airflow/sandbox/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/sandbox/lib/python3.8/site-packages/airflow/operators/python.py", line 150, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/sandbox/lib/python3.8/site-packages/airflow/operators/python.py", line 161, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/airflow/airflow/dags/xcom_dag.py", line 18, in _training_model
+    ti.xcom_pus(key='model_accuracy', value=accuracy)
+AttributeError: 'TaskInstance' object has no attribute 'xcom_pus'
+[2021-09-01 03:14:57,572] {taskinstance.py:1524} INFO - Marking task as FAILED. dag_id=xcom_dag, task_id=processing_tasks.training_model_a, execution_date=20210901T031447, start_date=20210901T031456, end_date=20210901T031457
+[2021-09-01 03:14:57,703] {local_task_job.py:151} INFO - Task exited with return code 1

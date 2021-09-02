@@ -1,0 +1,24 @@
+[2021-09-01 03:38:01,298] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: xcom_dag.is_accurate 2021-09-01T03:37:46.011372+00:00 [queued]>
+[2021-09-01 03:38:01,353] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: xcom_dag.is_accurate 2021-09-01T03:37:46.011372+00:00 [queued]>
+[2021-09-01 03:38:01,357] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-01 03:38:01,358] {taskinstance.py:1068} INFO - Starting attempt 1 of 1
+[2021-09-01 03:38:01,358] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-01 03:38:01,375] {taskinstance.py:1087} INFO - Executing <Task(BranchPythonOperator): is_accurate> on 2021-09-01T03:37:46.011372+00:00
+[2021-09-01 03:38:01,381] {standard_task_runner.py:52} INFO - Started process 117898 to run task
+[2021-09-01 03:38:01,406] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'xcom_dag', 'is_accurate', '2021-09-01T03:37:46.011372+00:00', '--job-id', '44', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/xcom_dag.py', '--cfg-path', '/tmp/tmpozt6fmfj', '--error-file', '/tmp/tmph4dt_hx7']
+[2021-09-01 03:38:01,411] {standard_task_runner.py:77} INFO - Job 44: Subtask is_accurate
+[2021-09-01 03:38:01,670] {logging_mixin.py:104} INFO - Running <TaskInstance: xcom_dag.is_accurate 2021-09-01T03:37:46.011372+00:00 [running]> on host airflowvm
+[2021-09-01 03:38:02,001] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=xcom_dag
+AIRFLOW_CTX_TASK_ID=is_accurate
+AIRFLOW_CTX_EXECUTION_DATE=2021-09-01T03:37:46.011372+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-09-01T03:37:46.011372+00:00
+[2021-09-01 03:38:02,003] {python.py:151} INFO - Done. Returned value was: accurate
+[2021-09-01 03:38:02,003] {skipmixin.py:124} INFO - Following branch accurate
+[2021-09-01 03:38:02,025] {skipmixin.py:155} INFO - Skipping tasks ['inaccurate']
+[2021-09-01 03:38:02,232] {taskinstance.py:1184} INFO - Marking task as SUCCESS. dag_id=xcom_dag, task_id=is_accurate, execution_date=20210901T033746, start_date=20210901T033801, end_date=20210901T033802
+[2021-09-01 03:38:02,359] {taskinstance.py:1245} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-09-01 03:38:02,393] {local_task_job.py:151} INFO - Task exited with return code 0

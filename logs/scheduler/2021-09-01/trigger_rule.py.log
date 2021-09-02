@@ -1,0 +1,881 @@
+[2021-09-01 04:05:50,633] {scheduler_job.py:182} INFO - Started process (PID=130350) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:05:50,646] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:05:50,646] {logging_mixin.py:104} INFO - [2021-09-01 04:05:50,646] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:05:50,652] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:05:50,681] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.053 seconds
+[2021-09-01 04:06:20,875] {scheduler_job.py:182} INFO - Started process (PID=130514) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:20,877] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:06:20,877] {logging_mixin.py:104} INFO - [2021-09-01 04:06:20,877] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:20,883] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:20,907] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 04:06:49,831] {scheduler_job.py:182} INFO - Started process (PID=130701) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:49,848] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:06:49,849] {logging_mixin.py:104} INFO - [2021-09-01 04:06:49,849] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:49,854] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:06:49,873] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 04:07:19,972] {scheduler_job.py:182} INFO - Started process (PID=130799) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:19,975] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:07:19,977] {logging_mixin.py:104} INFO - [2021-09-01 04:07:19,977] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:19,998] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:20,014] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.046 seconds
+[2021-09-01 04:07:50,675] {scheduler_job.py:182} INFO - Started process (PID=130936) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:50,678] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:07:50,700] {logging_mixin.py:104} INFO - [2021-09-01 04:07:50,700] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:50,814] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:07:50,913] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.255 seconds
+[2021-09-01 04:08:20,974] {scheduler_job.py:182} INFO - Started process (PID=131067) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:20,976] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:08:20,978] {logging_mixin.py:104} INFO - [2021-09-01 04:08:20,978] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:20,999] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:21,016] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.046 seconds
+[2021-09-01 04:08:51,318] {scheduler_job.py:182} INFO - Started process (PID=131180) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:51,324] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:08:51,325] {logging_mixin.py:104} INFO - [2021-09-01 04:08:51,325] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:51,376] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:08:51,614] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.298 seconds
+[2021-09-01 04:09:22,423] {scheduler_job.py:182} INFO - Started process (PID=131398) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:09:22,425] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:09:22,427] {logging_mixin.py:104} INFO - [2021-09-01 04:09:22,427] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:09:22,449] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:09:22,469] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.049 seconds
+[2021-09-01 04:10:47,470] {scheduler_job.py:182} INFO - Started process (PID=131615) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:10:47,527] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:10:47,528] {logging_mixin.py:104} INFO - [2021-09-01 04:10:47,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:10:47,587] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:10:47,656] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.188 seconds
+[2021-09-01 04:11:18,298] {scheduler_job.py:182} INFO - Started process (PID=131816) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:18,303] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:11:18,305] {logging_mixin.py:104} INFO - [2021-09-01 04:11:18,305] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:18,339] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:18,394] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.100 seconds
+[2021-09-01 04:11:48,506] {scheduler_job.py:182} INFO - Started process (PID=131918) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:48,508] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:11:48,510] {logging_mixin.py:104} INFO - [2021-09-01 04:11:48,509] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:48,520] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:11:48,548] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.045 seconds
+[2021-09-01 04:12:18,649] {scheduler_job.py:182} INFO - Started process (PID=132109) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:18,651] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:12:18,652] {logging_mixin.py:104} INFO - [2021-09-01 04:12:18,652] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:18,658] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:18,698] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.053 seconds
+[2021-09-01 04:12:48,877] {scheduler_job.py:182} INFO - Started process (PID=132122) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:48,879] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:12:48,880] {logging_mixin.py:104} INFO - [2021-09-01 04:12:48,880] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:48,908] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:12:48,952] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.078 seconds
+[2021-09-01 04:13:19,221] {scheduler_job.py:182} INFO - Started process (PID=132133) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:19,222] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:13:19,223] {logging_mixin.py:104} INFO - [2021-09-01 04:13:19,223] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:19,247] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:19,267] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.049 seconds
+[2021-09-01 04:13:49,428] {scheduler_job.py:182} INFO - Started process (PID=132144) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:49,430] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:13:49,439] {logging_mixin.py:104} INFO - [2021-09-01 04:13:49,439] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:49,450] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:13:49,472] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.046 seconds
+[2021-09-01 04:14:19,837] {scheduler_job.py:182} INFO - Started process (PID=132216) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:19,838] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:14:19,840] {logging_mixin.py:104} INFO - [2021-09-01 04:14:19,839] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:19,852] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:19,870] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 04:14:50,168] {scheduler_job.py:182} INFO - Started process (PID=132227) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:50,170] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:14:50,171] {logging_mixin.py:104} INFO - [2021-09-01 04:14:50,171] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:50,178] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:14:50,203] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.039 seconds
+[2021-09-01 04:15:20,477] {scheduler_job.py:182} INFO - Started process (PID=132242) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:20,478] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:15:20,479] {logging_mixin.py:104} INFO - [2021-09-01 04:15:20,479] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:20,486] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:20,515] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 04:15:50,763] {scheduler_job.py:182} INFO - Started process (PID=132272) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:50,765] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:15:50,769] {logging_mixin.py:104} INFO - [2021-09-01 04:15:50,769] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:50,775] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:15:50,794] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 04:16:21,170] {scheduler_job.py:182} INFO - Started process (PID=132301) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:21,172] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:16:21,174] {logging_mixin.py:104} INFO - [2021-09-01 04:16:21,173] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:21,183] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:21,201] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 04:16:51,497] {scheduler_job.py:182} INFO - Started process (PID=132312) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:51,498] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:16:51,499] {logging_mixin.py:104} INFO - [2021-09-01 04:16:51,499] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:51,514] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:16:51,534] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.041 seconds
+[2021-09-01 04:17:21,791] {scheduler_job.py:182} INFO - Started process (PID=132326) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:21,793] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:17:21,794] {logging_mixin.py:104} INFO - [2021-09-01 04:17:21,794] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:21,800] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:21,817] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.029 seconds
+[2021-09-01 04:17:52,110] {scheduler_job.py:182} INFO - Started process (PID=132337) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:52,112] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 04:17:52,113] {logging_mixin.py:104} INFO - [2021-09-01 04:17:52,113] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:52,121] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 04:17:52,148] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+                                                                             [2021-09-01 14:00:35,792] {scheduler_job.py:182} INFO - Started process (PID=12172) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:00:35,802] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:00:35,808] {logging_mixin.py:104} INFO - [2021-09-01 14:00:35,807] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:00:35,847] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:00:35,888] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.103 seconds
+[2021-09-01 14:01:06,181] {scheduler_job.py:182} INFO - Started process (PID=12311) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:06,183] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:01:06,185] {logging_mixin.py:104} INFO - [2021-09-01 14:01:06,185] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:06,204] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:06,238] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.068 seconds
+[2021-09-01 14:01:36,582] {scheduler_job.py:182} INFO - Started process (PID=12451) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:36,585] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:01:36,589] {logging_mixin.py:104} INFO - [2021-09-01 14:01:36,589] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:36,614] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:01:36,651] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.082 seconds
+[2021-09-01 14:02:07,055] {scheduler_job.py:182} INFO - Started process (PID=12594) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:07,058] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:02:07,066] {logging_mixin.py:104} INFO - [2021-09-01 14:02:07,065] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:07,100] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:07,153] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.122 seconds
+[2021-09-01 14:02:37,499] {scheduler_job.py:182} INFO - Started process (PID=12689) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:37,515] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:02:37,516] {logging_mixin.py:104} INFO - [2021-09-01 14:02:37,516] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:37,532] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:02:37,577] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.092 seconds
+[2021-09-01 14:03:07,959] {scheduler_job.py:182} INFO - Started process (PID=12792) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:07,966] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:03:07,968] {logging_mixin.py:104} INFO - [2021-09-01 14:03:07,968] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:08,006] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:08,066] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.122 seconds
+[2021-09-01 14:03:38,529] {scheduler_job.py:182} INFO - Started process (PID=12887) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:38,531] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:03:38,534] {logging_mixin.py:104} INFO - [2021-09-01 14:03:38,533] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:38,557] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:03:38,586] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.069 seconds
+[2021-09-01 14:04:08,632] {scheduler_job.py:182} INFO - Started process (PID=12988) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:08,640] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:04:08,642] {logging_mixin.py:104} INFO - [2021-09-01 14:04:08,642] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:08,660] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:08,675] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.059 seconds
+[2021-09-01 14:04:39,126] {scheduler_job.py:182} INFO - Started process (PID=13083) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:39,129] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:04:39,130] {logging_mixin.py:104} INFO - [2021-09-01 14:04:39,130] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:39,136] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:04:39,150] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.027 seconds
+[2021-09-01 14:05:09,541] {scheduler_job.py:182} INFO - Started process (PID=13187) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:09,542] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:05:09,543] {logging_mixin.py:104} INFO - [2021-09-01 14:05:09,543] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:09,548] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:09,571] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.032 seconds
+[2021-09-01 14:05:39,701] {scheduler_job.py:182} INFO - Started process (PID=13302) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:39,705] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:05:39,706] {logging_mixin.py:104} INFO - [2021-09-01 14:05:39,706] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:39,723] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:05:39,747] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.049 seconds
+[2021-09-01 14:06:10,193] {scheduler_job.py:182} INFO - Started process (PID=13418) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:10,196] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:06:10,199] {logging_mixin.py:104} INFO - [2021-09-01 14:06:10,199] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:10,212] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:10,229] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:06:40,611] {scheduler_job.py:182} INFO - Started process (PID=13522) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:40,615] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:06:40,617] {logging_mixin.py:104} INFO - [2021-09-01 14:06:40,617] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:40,627] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:06:40,649] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 14:07:10,996] {scheduler_job.py:182} INFO - Started process (PID=13685) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:11,001] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:07:11,003] {logging_mixin.py:104} INFO - [2021-09-01 14:07:11,003] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:11,013] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:11,034] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 14:07:41,346] {scheduler_job.py:182} INFO - Started process (PID=13782) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:41,347] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:07:41,348] {logging_mixin.py:104} INFO - [2021-09-01 14:07:41,348] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:41,354] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:07:41,369] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.026 seconds
+[2021-09-01 14:08:11,717] {scheduler_job.py:182} INFO - Started process (PID=13885) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:11,724] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:08:11,724] {logging_mixin.py:104} INFO - [2021-09-01 14:08:11,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:11,738] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:11,769] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.055 seconds
+[2021-09-01 14:08:42,094] {scheduler_job.py:182} INFO - Started process (PID=14012) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:42,096] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:08:42,096] {logging_mixin.py:104} INFO - [2021-09-01 14:08:42,096] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:42,108] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:08:42,128] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.036 seconds
+[2021-09-01 14:09:12,441] {scheduler_job.py:182} INFO - Started process (PID=14230) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:12,442] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:09:12,444] {logging_mixin.py:104} INFO - [2021-09-01 14:09:12,444] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:12,454] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:12,501] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.064 seconds
+[2021-09-01 14:09:42,837] {scheduler_job.py:182} INFO - Started process (PID=14333) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:42,839] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:09:42,840] {logging_mixin.py:104} INFO - [2021-09-01 14:09:42,840] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:42,851] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:09:42,876] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 14:10:13,207] {scheduler_job.py:182} INFO - Started process (PID=14437) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:13,210] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:10:13,213] {logging_mixin.py:104} INFO - [2021-09-01 14:10:13,213] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:13,220] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:13,238] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:10:43,532] {scheduler_job.py:182} INFO - Started process (PID=14570) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:43,534] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:10:43,536] {logging_mixin.py:104} INFO - [2021-09-01 14:10:43,536] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:43,547] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:10:43,566] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.035 seconds
+[2021-09-01 14:11:13,885] {scheduler_job.py:182} INFO - Started process (PID=14673) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:13,887] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:11:13,888] {logging_mixin.py:104} INFO - [2021-09-01 14:11:13,888] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:13,894] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:13,909] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.025 seconds
+[2021-09-01 14:11:44,295] {scheduler_job.py:182} INFO - Started process (PID=14773) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:44,299] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:11:44,303] {logging_mixin.py:104} INFO - [2021-09-01 14:11:44,303] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:44,321] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:11:44,357] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.078 seconds
+[2021-09-01 14:12:14,398] {scheduler_job.py:182} INFO - Started process (PID=14876) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:14,400] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:12:14,401] {logging_mixin.py:104} INFO - [2021-09-01 14:12:14,401] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:14,406] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:14,426] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.030 seconds
+[2021-09-01 14:12:44,736] {scheduler_job.py:182} INFO - Started process (PID=14979) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:44,739] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:12:44,740] {logging_mixin.py:104} INFO - [2021-09-01 14:12:44,740] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:44,747] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:12:44,765] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.032 seconds
+[2021-09-01 14:13:15,020] {scheduler_job.py:182} INFO - Started process (PID=15079) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:15,025] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:13:15,026] {logging_mixin.py:104} INFO - [2021-09-01 14:13:15,026] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:15,035] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:15,055] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 14:13:45,321] {scheduler_job.py:182} INFO - Started process (PID=15187) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:45,323] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:13:45,324] {logging_mixin.py:104} INFO - [2021-09-01 14:13:45,324] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:45,330] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:13:45,342] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.025 seconds
+[2021-09-01 14:14:15,743] {scheduler_job.py:182} INFO - Started process (PID=15290) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:15,747] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:14:15,748] {logging_mixin.py:104} INFO - [2021-09-01 14:14:15,748] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:15,758] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:15,774] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.035 seconds
+[2021-09-01 14:14:46,131] {scheduler_job.py:182} INFO - Started process (PID=15393) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:46,134] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:14:46,137] {logging_mixin.py:104} INFO - [2021-09-01 14:14:46,137] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:46,144] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:14:46,165] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 14:15:16,511] {scheduler_job.py:182} INFO - Started process (PID=15498) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:16,518] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:15:16,522] {logging_mixin.py:104} INFO - [2021-09-01 14:15:16,522] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:16,537] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:16,559] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.054 seconds
+[2021-09-01 14:15:46,668] {scheduler_job.py:182} INFO - Started process (PID=15633) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:46,674] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:15:46,676] {logging_mixin.py:104} INFO - [2021-09-01 14:15:46,676] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:46,685] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:15:46,707] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.042 seconds
+[2021-09-01 14:16:17,120] {scheduler_job.py:182} INFO - Started process (PID=15730) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:17,125] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:16:17,127] {logging_mixin.py:104} INFO - [2021-09-01 14:16:17,127] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:17,145] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:17,185] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.072 seconds
+[2021-09-01 14:16:47,538] {scheduler_job.py:182} INFO - Started process (PID=15833) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:47,540] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:16:47,541] {logging_mixin.py:104} INFO - [2021-09-01 14:16:47,541] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:47,546] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:16:47,558] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.023 seconds
+[2021-09-01 14:17:17,967] {scheduler_job.py:182} INFO - Started process (PID=15939) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:17,969] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:17:17,971] {logging_mixin.py:104} INFO - [2021-09-01 14:17:17,971] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:17,983] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:18,005] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 14:17:48,414] {scheduler_job.py:182} INFO - Started process (PID=16035) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:48,417] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:17:48,424] {logging_mixin.py:104} INFO - [2021-09-01 14:17:48,424] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:48,447] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:17:48,485] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.084 seconds
+[2021-09-01 14:18:18,925] {scheduler_job.py:182} INFO - Started process (PID=16139) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:18,928] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:18:18,929] {logging_mixin.py:104} INFO - [2021-09-01 14:18:18,929] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:18,937] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:18,958] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 14:18:49,333] {scheduler_job.py:182} INFO - Started process (PID=16236) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:49,334] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:18:49,336] {logging_mixin.py:104} INFO - [2021-09-01 14:18:49,336] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:49,345] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:18:49,391] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.061 seconds
+[2021-09-01 14:19:19,786] {scheduler_job.py:182} INFO - Started process (PID=16340) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:19,787] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:19:19,789] {logging_mixin.py:104} INFO - [2021-09-01 14:19:19,788] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:19,797] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:19,811] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.027 seconds
+[2021-09-01 14:19:50,279] {scheduler_job.py:182} INFO - Started process (PID=16443) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:50,281] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:19:50,282] {logging_mixin.py:104} INFO - [2021-09-01 14:19:50,282] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:50,294] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:19:50,310] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.036 seconds
+[2021-09-01 14:20:20,640] {scheduler_job.py:182} INFO - Started process (PID=16540) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:20,642] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:20:20,643] {logging_mixin.py:104} INFO - [2021-09-01 14:20:20,643] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:20,653] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:20,671] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:20:51,014] {scheduler_job.py:182} INFO - Started process (PID=16680) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:51,017] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:20:51,019] {logging_mixin.py:104} INFO - [2021-09-01 14:20:51,019] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:51,027] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:20:51,047] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:21:21,397] {scheduler_job.py:182} INFO - Started process (PID=16777) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:21,399] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:21:21,400] {logging_mixin.py:104} INFO - [2021-09-01 14:21:21,400] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:21,412] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:21,432] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:21:51,779] {scheduler_job.py:182} INFO - Started process (PID=16880) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:51,780] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:21:51,781] {logging_mixin.py:104} INFO - [2021-09-01 14:21:51,781] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:51,790] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:21:51,808] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:22:22,315] {scheduler_job.py:182} INFO - Started process (PID=16980) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:22,318] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:22:22,322] {logging_mixin.py:104} INFO - [2021-09-01 14:22:22,322] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:22,338] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:22,384] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.081 seconds
+[2021-09-01 14:22:52,505] {scheduler_job.py:182} INFO - Started process (PID=17080) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:52,508] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:22:52,511] {logging_mixin.py:104} INFO - [2021-09-01 14:22:52,511] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:52,522] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:22:52,545] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.044 seconds
+[2021-09-01 14:23:22,894] {scheduler_job.py:182} INFO - Started process (PID=17177) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:22,897] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:23:22,900] {logging_mixin.py:104} INFO - [2021-09-01 14:23:22,900] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:22,911] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:22,935] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.044 seconds
+[2021-09-01 14:23:53,374] {scheduler_job.py:182} INFO - Started process (PID=17281) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:53,376] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:23:53,377] {logging_mixin.py:104} INFO - [2021-09-01 14:23:53,377] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:53,384] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:23:53,400] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.029 seconds
+[2021-09-01 14:24:23,745] {scheduler_job.py:182} INFO - Started process (PID=17384) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:23,747] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:24:23,750] {logging_mixin.py:104} INFO - [2021-09-01 14:24:23,749] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:23,756] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:23,781] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.039 seconds
+[2021-09-01 14:24:54,094] {scheduler_job.py:182} INFO - Started process (PID=17542) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:54,096] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:24:54,097] {logging_mixin.py:104} INFO - [2021-09-01 14:24:54,097] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:54,103] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:24:54,125] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.032 seconds
+[2021-09-01 14:25:24,462] {scheduler_job.py:182} INFO - Started process (PID=17648) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:24,464] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:25:24,465] {logging_mixin.py:104} INFO - [2021-09-01 14:25:24,465] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:24,472] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:24,486] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.026 seconds
+[2021-09-01 14:25:54,911] {scheduler_job.py:182} INFO - Started process (PID=17787) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:54,912] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:25:54,914] {logging_mixin.py:104} INFO - [2021-09-01 14:25:54,914] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:54,919] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:25:54,934] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.025 seconds
+[2021-09-01 14:26:25,322] {scheduler_job.py:182} INFO - Started process (PID=17884) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:25,323] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:26:25,324] {logging_mixin.py:104} INFO - [2021-09-01 14:26:25,324] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:25,330] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:25,372] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.052 seconds
+[2021-09-01 14:26:55,785] {scheduler_job.py:182} INFO - Started process (PID=17988) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:55,786] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:26:55,787] {logging_mixin.py:104} INFO - [2021-09-01 14:26:55,787] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:55,798] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:26:55,816] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:27:26,200] {scheduler_job.py:182} INFO - Started process (PID=18091) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:26,202] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:27:26,204] {logging_mixin.py:104} INFO - [2021-09-01 14:27:26,204] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:26,212] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:26,225] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.030 seconds
+[2021-09-01 14:27:56,575] {scheduler_job.py:182} INFO - Started process (PID=18188) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:56,576] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:27:56,578] {logging_mixin.py:104} INFO - [2021-09-01 14:27:56,577] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:56,583] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:27:56,613] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 14:28:27,019] {scheduler_job.py:182} INFO - Started process (PID=18291) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:27,024] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:28:27,028] {logging_mixin.py:104} INFO - [2021-09-01 14:28:27,027] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:27,032] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:27,047] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.030 seconds
+[2021-09-01 14:28:57,342] {scheduler_job.py:182} INFO - Started process (PID=18394) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:57,348] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:28:57,348] {logging_mixin.py:104} INFO - [2021-09-01 14:28:57,348] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:57,367] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:28:57,387] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.048 seconds
+[2021-09-01 14:29:27,691] {scheduler_job.py:182} INFO - Started process (PID=18491) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:27,692] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:29:27,693] {logging_mixin.py:104} INFO - [2021-09-01 14:29:27,693] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:27,708] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:27,721] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:29:58,106] {scheduler_job.py:182} INFO - Started process (PID=18595) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:58,108] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:29:58,109] {logging_mixin.py:104} INFO - [2021-09-01 14:29:58,109] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:58,116] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:29:58,129] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.025 seconds
+[2021-09-01 14:30:28,463] {scheduler_job.py:182} INFO - Started process (PID=18699) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:28,465] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:30:28,467] {logging_mixin.py:104} INFO - [2021-09-01 14:30:28,467] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:28,476] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:28,494] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:30:58,592] {scheduler_job.py:182} INFO - Started process (PID=18834) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:58,593] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:30:58,595] {logging_mixin.py:104} INFO - [2021-09-01 14:30:58,595] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:58,605] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:30:58,619] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.029 seconds
+[2021-09-01 14:31:28,785] {scheduler_job.py:182} INFO - Started process (PID=18931) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:28,787] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:31:28,788] {logging_mixin.py:104} INFO - [2021-09-01 14:31:28,788] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:28,801] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:28,819] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 14:31:59,207] {scheduler_job.py:182} INFO - Started process (PID=19034) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:59,209] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:31:59,210] {logging_mixin.py:104} INFO - [2021-09-01 14:31:59,210] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:59,218] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:31:59,238] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:32:29,609] {scheduler_job.py:182} INFO - Started process (PID=19137) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:32:29,611] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:32:29,612] {logging_mixin.py:104} INFO - [2021-09-01 14:32:29,612] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:32:29,620] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:32:29,640] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:33:00,073] {scheduler_job.py:182} INFO - Started process (PID=19235) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:00,075] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:33:00,077] {logging_mixin.py:104} INFO - [2021-09-01 14:33:00,077] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:00,088] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:00,112] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.044 seconds
+[2021-09-01 14:33:30,186] {scheduler_job.py:182} INFO - Started process (PID=19335) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:30,192] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:33:30,196] {logging_mixin.py:104} INFO - [2021-09-01 14:33:30,196] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:30,214] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:33:30,258] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.090 seconds
+[2021-09-01 14:34:00,646] {scheduler_job.py:182} INFO - Started process (PID=19435) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:00,647] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:34:00,649] {logging_mixin.py:104} INFO - [2021-09-01 14:34:00,649] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:00,659] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:00,677] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:34:31,067] {scheduler_job.py:182} INFO - Started process (PID=19538) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:31,069] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:34:31,072] {logging_mixin.py:104} INFO - [2021-09-01 14:34:31,072] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:31,084] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:34:31,109] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.045 seconds
+[2021-09-01 14:35:01,443] {scheduler_job.py:182} INFO - Started process (PID=19636) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:01,450] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:35:01,458] {logging_mixin.py:104} INFO - [2021-09-01 14:35:01,458] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:01,480] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:01,542] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.101 seconds
+[2021-09-01 14:35:31,932] {scheduler_job.py:182} INFO - Started process (PID=19740) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:31,936] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:35:31,937] {logging_mixin.py:104} INFO - [2021-09-01 14:35:31,936] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:31,949] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:35:31,970] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.041 seconds
+[2021-09-01 14:36:02,416] {scheduler_job.py:182} INFO - Started process (PID=19875) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:02,420] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:36:02,423] {logging_mixin.py:104} INFO - [2021-09-01 14:36:02,423] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:02,433] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:02,453] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 14:36:32,831] {scheduler_job.py:182} INFO - Started process (PID=19978) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:32,833] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:36:32,835] {logging_mixin.py:104} INFO - [2021-09-01 14:36:32,835] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:32,846] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:36:32,874] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.045 seconds
+[2021-09-01 14:37:03,213] {scheduler_job.py:182} INFO - Started process (PID=20081) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:03,215] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:37:03,215] {logging_mixin.py:104} INFO - [2021-09-01 14:37:03,215] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:03,225] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:03,240] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.029 seconds
+[2021-09-01 14:37:33,569] {scheduler_job.py:182} INFO - Started process (PID=20178) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:33,572] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:37:33,573] {logging_mixin.py:104} INFO - [2021-09-01 14:37:33,573] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:33,582] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:37:33,600] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.035 seconds
+[2021-09-01 14:38:03,967] {scheduler_job.py:182} INFO - Started process (PID=20281) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:03,969] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:38:03,971] {logging_mixin.py:104} INFO - [2021-09-01 14:38:03,971] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:03,977] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:03,998] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:38:34,377] {scheduler_job.py:182} INFO - Started process (PID=20378) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:34,379] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:38:34,380] {logging_mixin.py:104} INFO - [2021-09-01 14:38:34,380] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:34,386] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:38:34,404] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.029 seconds
+[2021-09-01 14:39:04,798] {scheduler_job.py:182} INFO - Started process (PID=20482) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:04,800] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:39:04,801] {logging_mixin.py:104} INFO - [2021-09-01 14:39:04,801] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:04,811] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:04,831] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:39:35,200] {scheduler_job.py:182} INFO - Started process (PID=20585) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:35,202] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:39:35,203] {logging_mixin.py:104} INFO - [2021-09-01 14:39:35,203] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:35,210] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:39:35,231] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:40:05,571] {scheduler_job.py:182} INFO - Started process (PID=20683) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:05,572] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:40:05,573] {logging_mixin.py:104} INFO - [2021-09-01 14:40:05,573] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:05,580] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:05,600] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.031 seconds
+[2021-09-01 14:40:35,987] {scheduler_job.py:182} INFO - Started process (PID=20786) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:35,989] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:40:35,990] {logging_mixin.py:104} INFO - [2021-09-01 14:40:35,990] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:35,995] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:40:36,008] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.023 seconds
+[2021-09-01 14:41:06,383] {scheduler_job.py:182} INFO - Started process (PID=20920) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:06,385] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:41:06,387] {logging_mixin.py:104} INFO - [2021-09-01 14:41:06,387] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:06,393] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:06,411] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.031 seconds
+[2021-09-01 14:41:36,797] {scheduler_job.py:182} INFO - Started process (PID=21023) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:36,799] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:41:36,801] {logging_mixin.py:104} INFO - [2021-09-01 14:41:36,801] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:36,807] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:41:36,826] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:42:07,223] {scheduler_job.py:182} INFO - Started process (PID=21127) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:07,225] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:42:07,227] {logging_mixin.py:104} INFO - [2021-09-01 14:42:07,227] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:07,233] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:07,255] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:42:37,582] {scheduler_job.py:182} INFO - Started process (PID=21224) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:37,586] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:42:37,587] {logging_mixin.py:104} INFO - [2021-09-01 14:42:37,587] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:37,595] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:42:37,615] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:43:08,012] {scheduler_job.py:182} INFO - Started process (PID=21327) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:08,014] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:43:08,016] {logging_mixin.py:104} INFO - [2021-09-01 14:43:08,016] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:08,023] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:08,047] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 14:43:38,167] {scheduler_job.py:182} INFO - Started process (PID=21424) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:38,168] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:43:38,169] {logging_mixin.py:104} INFO - [2021-09-01 14:43:38,169] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:38,177] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:43:38,197] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.034 seconds
+[2021-09-01 14:44:08,536] {scheduler_job.py:182} INFO - Started process (PID=21527) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:08,538] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:44:08,541] {logging_mixin.py:104} INFO - [2021-09-01 14:44:08,541] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:08,550] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:08,570] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.039 seconds
+[2021-09-01 14:44:38,967] {scheduler_job.py:182} INFO - Started process (PID=21624) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:38,968] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:44:38,971] {logging_mixin.py:104} INFO - [2021-09-01 14:44:38,971] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:38,982] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:44:39,011] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.047 seconds
+[2021-09-01 14:45:09,388] {scheduler_job.py:182} INFO - Started process (PID=21731) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:09,391] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:45:09,393] {logging_mixin.py:104} INFO - [2021-09-01 14:45:09,393] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:09,401] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:09,426] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 14:45:39,819] {scheduler_job.py:182} INFO - Started process (PID=21852) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:39,823] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:45:39,824] {logging_mixin.py:104} INFO - [2021-09-01 14:45:39,824] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:39,836] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:45:39,856] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.042 seconds
+[2021-09-01 14:46:10,206] {scheduler_job.py:182} INFO - Started process (PID=21967) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:10,207] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:46:10,208] {logging_mixin.py:104} INFO - [2021-09-01 14:46:10,208] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:10,218] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:10,237] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.035 seconds
+[2021-09-01 14:46:40,601] {scheduler_job.py:182} INFO - Started process (PID=22070) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:40,603] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:46:40,605] {logging_mixin.py:104} INFO - [2021-09-01 14:46:40,605] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:40,617] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:46:40,639] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.044 seconds
+[2021-09-01 14:47:10,976] {scheduler_job.py:182} INFO - Started process (PID=22167) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:10,978] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:47:10,979] {logging_mixin.py:104} INFO - [2021-09-01 14:47:10,979] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:10,986] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:11,006] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:47:41,347] {scheduler_job.py:182} INFO - Started process (PID=22270) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:41,348] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:47:41,350] {logging_mixin.py:104} INFO - [2021-09-01 14:47:41,350] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:41,360] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:47:41,379] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.035 seconds
+[2021-09-01 14:48:11,696] {scheduler_job.py:182} INFO - Started process (PID=22374) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:11,698] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:48:11,699] {logging_mixin.py:104} INFO - [2021-09-01 14:48:11,699] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:11,708] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:11,728] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.038 seconds
+[2021-09-01 14:48:41,865] {scheduler_job.py:182} INFO - Started process (PID=22471) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:41,868] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:48:41,871] {logging_mixin.py:104} INFO - [2021-09-01 14:48:41,871] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:41,879] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:48:41,893] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.033 seconds
+[2021-09-01 14:49:12,227] {scheduler_job.py:182} INFO - Started process (PID=22575) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:12,231] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:49:12,233] {logging_mixin.py:104} INFO - [2021-09-01 14:49:12,233] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:12,244] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:12,277] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.055 seconds
+[2021-09-01 14:49:42,606] {scheduler_job.py:182} INFO - Started process (PID=22672) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:42,608] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:49:42,610] {logging_mixin.py:104} INFO - [2021-09-01 14:49:42,610] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:42,622] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:49:42,647] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.043 seconds
+[2021-09-01 14:50:12,686] {scheduler_job.py:182} INFO - Started process (PID=22776) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:12,690] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:50:12,694] {logging_mixin.py:104} INFO - [2021-09-01 14:50:12,694] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:12,704] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:12,730] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.045 seconds
+[2021-09-01 14:50:43,145] {scheduler_job.py:182} INFO - Started process (PID=22909) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:43,147] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 14:50:43,148] {logging_mixin.py:104} INFO - [2021-09-01 14:50:43,148] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:43,158] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 14:50:43,181] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.040 seconds
+[2021-09-01 15:28:50,494] {scheduler_job.py:182} INFO - Started process (PID=22989) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:28:50,497] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:28:50,500] {logging_mixin.py:104} INFO - [2021-09-01 15:28:50,500] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:28:50,572] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:28:50,647] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.181 seconds
+[2021-09-01 15:29:21,378] {scheduler_job.py:182} INFO - Started process (PID=23071) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:21,383] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:29:21,385] {logging_mixin.py:104} INFO - [2021-09-01 15:29:21,385] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:21,393] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:21,413] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.037 seconds
+[2021-09-01 15:29:51,647] {scheduler_job.py:182} INFO - Started process (PID=23084) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:51,649] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:29:51,650] {logging_mixin.py:104} INFO - [2021-09-01 15:29:51,650] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:51,660] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:29:51,690] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.050 seconds
+[2021-09-01 15:30:21,984] {scheduler_job.py:182} INFO - Started process (PID=23097) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:21,986] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:30:21,989] {logging_mixin.py:104} INFO - [2021-09-01 15:30:21,989] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:22,007] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:22,039] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.062 seconds
+[2021-09-01 15:30:52,334] {scheduler_job.py:182} INFO - Started process (PID=23110) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:52,338] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:30:52,341] {logging_mixin.py:104} INFO - [2021-09-01 15:30:52,341] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:52,346] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:30:52,388] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.056 seconds
+[2021-09-01 15:31:22,723] {scheduler_job.py:182} INFO - Started process (PID=23123) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:22,727] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:31:22,728] {logging_mixin.py:104} INFO - [2021-09-01 15:31:22,728] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:22,741] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:22,791] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.074 seconds
+[2021-09-01 15:31:53,115] {scheduler_job.py:182} INFO - Started process (PID=23140) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:53,117] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:31:53,122] {logging_mixin.py:104} INFO - [2021-09-01 15:31:53,122] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:53,144] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:31:53,191] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.082 seconds
+[2021-09-01 15:32:23,545] {scheduler_job.py:182} INFO - Started process (PID=23153) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:23,554] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:32:23,556] {logging_mixin.py:104} INFO - [2021-09-01 15:32:23,556] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:23,568] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:23,590] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.047 seconds
+[2021-09-01 15:32:53,870] {scheduler_job.py:182} INFO - Started process (PID=23166) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:53,872] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:32:53,875] {logging_mixin.py:104} INFO - [2021-09-01 15:32:53,875] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:53,896] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:32:53,930] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.067 seconds
+[2021-09-01 15:33:24,231] {scheduler_job.py:182} INFO - Started process (PID=23197) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:24,242] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:33:24,243] {logging_mixin.py:104} INFO - [2021-09-01 15:33:24,243] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:24,262] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:24,294] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.073 seconds
+[2021-09-01 15:33:54,602] {scheduler_job.py:182} INFO - Started process (PID=23229) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:54,604] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:33:54,605] {logging_mixin.py:104} INFO - [2021-09-01 15:33:54,605] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:54,628] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:33:54,674] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.078 seconds
+[2021-09-01 15:34:24,960] {scheduler_job.py:182} INFO - Started process (PID=23242) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:24,969] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:34:24,970] {logging_mixin.py:104} INFO - [2021-09-01 15:34:24,970] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:24,977] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:25,004] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.049 seconds
+[2021-09-01 15:34:55,321] {scheduler_job.py:182} INFO - Started process (PID=23255) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:55,328] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:34:55,330] {logging_mixin.py:104} INFO - [2021-09-01 15:34:55,330] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:55,348] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:34:55,390] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.070 seconds
+[2021-09-01 15:35:25,738] {scheduler_job.py:182} INFO - Started process (PID=23272) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:25,745] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:35:25,747] {logging_mixin.py:104} INFO - [2021-09-01 15:35:25,747] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:25,765] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:25,790] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.054 seconds
+[2021-09-01 15:35:56,135] {scheduler_job.py:182} INFO - Started process (PID=23287) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:56,141] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:35:56,144] {logging_mixin.py:104} INFO - [2021-09-01 15:35:56,143] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:56,165] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:35:56,197] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.078 seconds
+[2021-09-01 15:36:26,531] {scheduler_job.py:182} INFO - Started process (PID=23569) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:26,533] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:36:26,537] {logging_mixin.py:104} INFO - [2021-09-01 15:36:26,537] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:26,578] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:26,638] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.110 seconds
+[2021-09-01 15:36:57,045] {scheduler_job.py:182} INFO - Started process (PID=23582) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:57,053] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:36:57,060] {logging_mixin.py:104} INFO - [2021-09-01 15:36:57,060] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:57,078] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:36:57,120] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.085 seconds
+[2021-09-01 15:37:27,501] {scheduler_job.py:182} INFO - Started process (PID=23595) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:27,507] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:37:27,518] {logging_mixin.py:104} INFO - [2021-09-01 15:37:27,517] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:27,535] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:27,582] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.085 seconds
+[2021-09-01 15:37:57,922] {scheduler_job.py:182} INFO - Started process (PID=23608) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:57,932] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:37:57,935] {logging_mixin.py:104} INFO - [2021-09-01 15:37:57,935] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:57,953] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:37:58,009] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.096 seconds
+[2021-09-01 15:38:28,349] {scheduler_job.py:182} INFO - Started process (PID=23657) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:28,352] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:38:28,356] {logging_mixin.py:104} INFO - [2021-09-01 15:38:28,356] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:28,369] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:28,439] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.096 seconds
+[2021-09-01 15:38:58,868] {scheduler_job.py:182} INFO - Started process (PID=23670) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:58,873] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:38:58,881] {logging_mixin.py:104} INFO - [2021-09-01 15:38:58,880] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:58,903] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:38:58,945] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.083 seconds
+[2021-09-01 15:39:29,295] {scheduler_job.py:182} INFO - Started process (PID=23684) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:29,303] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:39:29,307] {logging_mixin.py:104} INFO - [2021-09-01 15:39:29,307] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:29,320] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:29,362] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.073 seconds
+[2021-09-01 15:39:59,767] {scheduler_job.py:182} INFO - Started process (PID=23697) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:59,773] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:39:59,775] {logging_mixin.py:104} INFO - [2021-09-01 15:39:59,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:59,795] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:39:59,840] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.082 seconds
+[2021-09-01 15:40:30,201] {scheduler_job.py:182} INFO - Started process (PID=23711) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:40:30,204] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:40:30,213] {logging_mixin.py:104} INFO - [2021-09-01 15:40:30,213] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:40:30,228] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:40:30,289] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.099 seconds
+[2021-09-01 15:41:00,608] {scheduler_job.py:182} INFO - Started process (PID=23724) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:00,619] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:41:00,620] {logging_mixin.py:104} INFO - [2021-09-01 15:41:00,620] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:00,630] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:00,677] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.072 seconds
+[2021-09-01 15:41:30,994] {scheduler_job.py:182} INFO - Started process (PID=23737) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:30,999] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:41:31,000] {logging_mixin.py:104} INFO - [2021-09-01 15:41:31,000] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:31,008] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:41:31,040] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.055 seconds
+[2021-09-01 15:42:01,372] {scheduler_job.py:182} INFO - Started process (PID=23750) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:01,383] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:42:01,384] {logging_mixin.py:104} INFO - [2021-09-01 15:42:01,384] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:01,402] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:01,463] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.110 seconds
+[2021-09-01 15:42:31,801] {scheduler_job.py:182} INFO - Started process (PID=23764) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:31,804] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:42:31,809] {logging_mixin.py:104} INFO - [2021-09-01 15:42:31,809] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:31,829] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:42:31,895] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.098 seconds
+[2021-09-01 15:43:02,276] {scheduler_job.py:182} INFO - Started process (PID=23777) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:02,280] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:43:02,283] {logging_mixin.py:104} INFO - [2021-09-01 15:43:02,283] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:02,325] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:02,388] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.124 seconds
+[2021-09-01 15:43:32,743] {scheduler_job.py:182} INFO - Started process (PID=23826) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:32,744] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:43:32,744] {logging_mixin.py:104} INFO - [2021-09-01 15:43:32,744] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:32,769] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:43:32,818] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.086 seconds
+[2021-09-01 15:44:03,218] {scheduler_job.py:182} INFO - Started process (PID=23839) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:03,219] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:44:03,228] {logging_mixin.py:104} INFO - [2021-09-01 15:44:03,228] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:03,254] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:03,290] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.092 seconds
+[2021-09-01 15:44:33,573] {scheduler_job.py:182} INFO - Started process (PID=23851) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:33,574] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:44:33,577] {logging_mixin.py:104} INFO - [2021-09-01 15:44:33,576] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:33,590] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:44:33,617] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.055 seconds
+[2021-09-01 15:45:03,937] {scheduler_job.py:182} INFO - Started process (PID=23867) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:03,944] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:45:03,945] {logging_mixin.py:104} INFO - [2021-09-01 15:45:03,945] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:03,956] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:04,011] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.076 seconds
+[2021-09-01 15:45:34,403] {scheduler_job.py:182} INFO - Started process (PID=23881) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:34,404] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:45:34,409] {logging_mixin.py:104} INFO - [2021-09-01 15:45:34,409] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:34,436] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:45:34,495] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.102 seconds
+[2021-09-01 15:46:04,864] {scheduler_job.py:182} INFO - Started process (PID=23894) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:04,872] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:46:04,880] {logging_mixin.py:104} INFO - [2021-09-01 15:46:04,876] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:04,905] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:04,953] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.097 seconds
+[2021-09-01 15:46:35,347] {scheduler_job.py:182} INFO - Started process (PID=23907) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:35,353] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:46:35,355] {logging_mixin.py:104} INFO - [2021-09-01 15:46:35,355] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:35,367] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:46:35,395] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.055 seconds
+[2021-09-01 15:47:13,497] {scheduler_job.py:182} INFO - Started process (PID=23921) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:13,503] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:47:13,506] {logging_mixin.py:104} INFO - [2021-09-01 15:47:13,506] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:13,512] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:13,560] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.079 seconds
+[2021-09-01 15:47:44,359] {scheduler_job.py:182} INFO - Started process (PID=23966) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:44,361] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:47:44,362] {logging_mixin.py:104} INFO - [2021-09-01 15:47:44,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:44,371] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:47:44,393] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.036 seconds
+[2021-09-01 15:48:14,628] {scheduler_job.py:182} INFO - Started process (PID=23980) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:14,632] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:48:14,638] {logging_mixin.py:104} INFO - [2021-09-01 15:48:14,637] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:14,661] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:14,704] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.083 seconds
+[2021-09-01 15:48:45,092] {scheduler_job.py:182} INFO - Started process (PID=24026) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:45,096] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:48:45,097] {logging_mixin.py:104} INFO - [2021-09-01 15:48:45,096] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:45,110] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:48:45,140] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.056 seconds
+[2021-09-01 15:49:15,511] {scheduler_job.py:182} INFO - Started process (PID=24064) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:15,517] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:49:15,528] {logging_mixin.py:104} INFO - [2021-09-01 15:49:15,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:15,542] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:15,589] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.081 seconds
+[2021-09-01 15:49:46,015] {scheduler_job.py:182} INFO - Started process (PID=24298) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:46,025] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:49:46,032] {logging_mixin.py:104} INFO - [2021-09-01 15:49:46,032] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:46,053] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:49:46,097] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.084 seconds
+[2021-09-01 15:50:16,494] {scheduler_job.py:182} INFO - Started process (PID=24311) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:16,498] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:50:16,508] {logging_mixin.py:104} INFO - [2021-09-01 15:50:16,508] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:16,541] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:16,585] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.110 seconds
+[2021-09-01 15:50:46,951] {scheduler_job.py:182} INFO - Started process (PID=24326) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:46,962] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:50:46,965] {logging_mixin.py:104} INFO - [2021-09-01 15:50:46,965] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:46,988] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:50:47,034] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.085 seconds
+[2021-09-01 15:51:17,378] {scheduler_job.py:182} INFO - Started process (PID=24339) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:17,391] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:51:17,394] {logging_mixin.py:104} INFO - [2021-09-01 15:51:17,394] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:17,427] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:17,493] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.120 seconds
+[2021-09-01 15:51:47,828] {scheduler_job.py:182} INFO - Started process (PID=24352) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:47,837] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:51:47,840] {logging_mixin.py:104} INFO - [2021-09-01 15:51:47,840] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:47,893] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:51:47,940] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.114 seconds
+[2021-09-01 15:52:18,328] {scheduler_job.py:182} INFO - Started process (PID=24366) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:18,334] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:52:18,337] {logging_mixin.py:104} INFO - [2021-09-01 15:52:18,337] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:18,360] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:18,439] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.140 seconds
+[2021-09-01 15:52:48,833] {scheduler_job.py:182} INFO - Started process (PID=24379) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:48,841] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:52:48,845] {logging_mixin.py:104} INFO - [2021-09-01 15:52:48,843] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:48,880] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:52:48,920] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.089 seconds
+[2021-09-01 15:53:19,323] {scheduler_job.py:182} INFO - Started process (PID=24393) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:19,338] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:53:19,343] {logging_mixin.py:104} INFO - [2021-09-01 15:53:19,343] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:19,369] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:19,415] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.101 seconds
+[2021-09-01 15:53:49,758] {scheduler_job.py:182} INFO - Started process (PID=24434) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:49,761] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:53:49,762] {logging_mixin.py:104} INFO - [2021-09-01 15:53:49,762] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:49,787] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:53:49,823] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.067 seconds
+[2021-09-01 15:54:20,244] {scheduler_job.py:182} INFO - Started process (PID=24455) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:20,250] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:54:20,251] {logging_mixin.py:104} INFO - [2021-09-01 15:54:20,251] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:20,270] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:20,316] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.078 seconds
+[2021-09-01 15:54:50,709] {scheduler_job.py:182} INFO - Started process (PID=24467) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:50,712] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:54:50,713] {logging_mixin.py:104} INFO - [2021-09-01 15:54:50,713] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:50,728] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:54:50,775] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.072 seconds
+[2021-09-01 15:55:21,149] {scheduler_job.py:182} INFO - Started process (PID=24485) to work on /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:55:21,153] {scheduler_job.py:633} INFO - Processing file /home/airflow/airflow/dags/trigger_rule.py for tasks to queue
+[2021-09-01 15:55:21,157] {logging_mixin.py:104} INFO - [2021-09-01 15:55:21,157] {dagbag.py:487} INFO - Filling up the DagBag from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:55:21,174] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/airflow/airflow/dags/trigger_rule.py
+[2021-09-01 15:55:21,224] {scheduler_job.py:190} INFO - Processing /home/airflow/airflow/dags/trigger_rule.py took 0.082 seconds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

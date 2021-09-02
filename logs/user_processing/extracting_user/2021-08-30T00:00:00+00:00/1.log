@@ -1,0 +1,25 @@
+[2021-08-31 18:41:44,880] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: user_processing.extracting_user 2021-08-30T00:00:00+00:00 [queued]>
+[2021-08-31 18:41:44,898] {taskinstance.py:876} INFO - Dependencies all met for <TaskInstance: user_processing.extracting_user 2021-08-30T00:00:00+00:00 [queued]>
+[2021-08-31 18:41:44,902] {taskinstance.py:1067} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-31 18:41:44,903] {taskinstance.py:1068} INFO - Starting attempt 1 of 1
+[2021-08-31 18:41:44,903] {taskinstance.py:1069} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-31 18:41:44,933] {taskinstance.py:1087} INFO - Executing <Task(SimpleHttpOperator): extracting_user> on 2021-08-30T00:00:00+00:00
+[2021-08-31 18:41:44,952] {standard_task_runner.py:52} INFO - Started process 44391 to run task
+[2021-08-31 18:41:44,969] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'user_processing', 'extracting_user', '2021-08-30T00:00:00+00:00', '--job-id', '35', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/tmp/tmpoa11g3_0', '--error-file', '/tmp/tmp0_8mcq0p']
+[2021-08-31 18:41:44,973] {standard_task_runner.py:77} INFO - Job 35: Subtask extracting_user
+[2021-08-31 18:41:45,167] {logging_mixin.py:104} INFO - Running <TaskInstance: user_processing.extracting_user 2021-08-30T00:00:00+00:00 [running]> on host airflowvm
+[2021-08-31 18:41:45,364] {taskinstance.py:1280} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=user_processing
+AIRFLOW_CTX_TASK_ID=extracting_user
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-30T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-30T00:00:00+00:00
+[2021-08-31 18:41:45,366] {http.py:111} INFO - Calling HTTP method
+[2021-08-31 18:41:45,375] {base.py:69} INFO - Using connection to: id: user_api. Host: https://randomuser.me/, Port: None, Schema: , Login: , Password: None, extra: {}
+[2021-08-31 18:41:45,377] {http.py:140} INFO - Sending 'GET' to url: https://randomuser.me/api/
+[2021-08-31 18:41:45,862] {http.py:115} INFO - {"results":[{"gender":"female","name":{"title":"Miss","first":"Acira","last":"Rodrigues"},"location":{"street":{"number":9173,"name":"Rua Alagoas "},"city":"Pinhais","state":"Paraíba","country":"Brazil","postcode":99879,"coordinates":{"latitude":"-77.8952","longitude":"42.9644"},"timezone":{"offset":"-3:00","description":"Brazil, Buenos Aires, Georgetown"}},"email":"acira.rodrigues@example.com","login":{"uuid":"0e25e1a8-f124-410d-8276-2369b2fff2bd","username":"happycat270","password":"insomnia","salt":"hhsfb2Il","md5":"fdb3727f79f7632a123622985bbca075","sha1":"263770cd1bf88e3f47b26e5ddd2b94424ca8c8d5","sha256":"67c5ec4a892a7fc50d4df57b8346885e697bbd248246cd523f4a36c078f5d2e4"},"dob":{"date":"1965-06-16T17:15:32.254Z","age":56},"registered":{"date":"2013-02-14T06:22:42.904Z","age":8},"phone":"(19) 9917-8372","cell":"(68) 8769-3823","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/71.jpg","medium":"https://randomuser.me/api/portraits/med/women/71.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/71.jpg"},"nat":"BR"}],"info":{"seed":"78874844e46cddaa","results":1,"page":1,"version":"1.3"}}
+[2021-08-31 18:41:45,914] {taskinstance.py:1184} INFO - Marking task as SUCCESS. dag_id=user_processing, task_id=extracting_user, execution_date=20210830T000000, start_date=20210831T184144, end_date=20210831T184145
+[2021-08-31 18:41:45,973] {taskinstance.py:1245} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-08-31 18:41:46,001] {local_task_job.py:151} INFO - Task exited with return code 0
